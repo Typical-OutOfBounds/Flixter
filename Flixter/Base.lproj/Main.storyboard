@@ -174,7 +174,7 @@
                                 <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <collectionViewFlowLayout key="collectionViewLayout" automaticEstimatedItemSize="YES" minimumLineSpacing="10" minimumInteritemSpacing="10" id="F4j-eh-tTi">
+                                <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="F4j-eh-tTi">
                                     <size key="itemSize" width="196" height="268"/>
                                     <size key="headerReferenceSize" width="0.0" height="0.0"/>
                                     <size key="footerReferenceSize" width="0.0" height="0.0"/>
@@ -196,7 +196,7 @@
                                         </collectionViewCellContentView>
                                         <size key="customSize" width="196" height="268"/>
                                         <connections>
-                                            <outlet property="posterView" destination="bSj-Uv-aOi" id="Ns6-hG-1BS"/>
+                                            <outlet property="posterView" destination="OuB-lx-wn9" id="tDX-4p-p3W"/>
                                         </connections>
                                     </collectionViewCell>
                                 </cells>
